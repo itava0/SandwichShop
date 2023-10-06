@@ -6,8 +6,8 @@ public class SandwichShop {
 
     private static final double REGULAR_PRICE = 5.45;
     private static final double LARGE_PRICE = 8.95;
-    private static final double STUDENT_RATE = 0.10;
-    private static final double SENIOR_RATE = 0.20;
+    private static final double STUDENT_RATE = 0.9;
+    private static final double SENIOR_RATE = 0.8;
     private static final double REGULAR_LOADED = 1.00;
     private static final double LARGE_LOADED = 1.75;
 
